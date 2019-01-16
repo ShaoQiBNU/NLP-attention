@@ -23,4 +23,10 @@ https://github.com/tensorflow/nmt
 
 https://github.com/princewen/tensorflow_practice/tree/master/nlp/chat_bot_seq2seq_attention
 
+http://nlp.seas.harvard.edu/2018/04/03/attention.html
+
+https://github.com/harvardnlp/annotated-transformer
+
+
+
 
