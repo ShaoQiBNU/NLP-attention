@@ -12,6 +12,7 @@ https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-s
 
 http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/
 
+https://mp.weixin.qq.com/s/5D8ZjMjX7T-sHrdWIODQMA
 
 
 
